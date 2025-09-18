@@ -1,0 +1,5 @@
+{
+  "name": "Image Tiler",
+  "description": "An application to slice an uploaded image into smaller, downloadable tiles based on user-specified dimensions.",
+  "requestFramePermissions": []
+}
